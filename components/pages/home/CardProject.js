@@ -16,7 +16,7 @@ const CardProjet = ({ title, text, a, img, link }) => {
       >
         {link}
       </a>
-      <picture className="">
+      <picture className="another-project ">
         <Image src={img} className="rounded-lg" alt="linkedin logo" />
       </picture>
     </div>

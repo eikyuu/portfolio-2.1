@@ -1,5 +1,7 @@
 import React from "react";
 import brosset from "../../../public/images/brosset.png";
+import media from "../../../public/images/media.PNG";
+import coachimmo from "../../../public/images/coachimmo.PNG";
 import CardProjet from "./CardProject";
 
 const AnotherProject = () => {
@@ -30,18 +32,18 @@ const AnotherProject = () => {
                 text={
                   "Création d'un ecran interactif, actualités du groupe, météo etc... pour toutes les agences Citya."
                 }
-                img={brosset}
+                img={media}
                 a={"https://media.sas-arche.com/tv/132"}
                 link={"media.sas-arche.com"}
               />
               <CardProjet
                 title={"Coach Immo"}
                 text={
-                  "Réalisation d'un formulaire de mise en relation avec les partenaires citya immobilier, gestion des leads sur un backoffice pour la BPVF."
+                  "Réalisation d'un formulaire de mise en relation avec les partenaires Citya, gestion des leads sur un backoffice pour la BPVF."
                 }
-                img={brosset}
-                a={"brosset-immobilier.fr/client-gold"}
-                link={"media"}
+                img={coachimmo}
+                a={"https://coachimmo.sas-arche.com/#/"}
+                link={"coachimmo.sas-arche.com"}
               />
             </div>
             <p className="mt-5">

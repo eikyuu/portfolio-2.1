@@ -3,3 +3,9 @@
   width: 500px!important;
   object-fit: cover;
 }
+
+.another-project img {
+  height: 250px !important;
+  width: 380px!important;
+  object-fit: cover;
+}
