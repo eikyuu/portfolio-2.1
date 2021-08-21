@@ -1,8 +1,8 @@
 import "tailwindcss/tailwind.css";
 import React from "react";
-import app from "../style/app.css";
+import "../style/app.css";
 import "aos/dist/aos.css";
-import Layout from "../components/layout/layout";
+import Layout from "../components/Layout/Layout";
 
 function MyApp({ Component, pageProps }) {
   return (

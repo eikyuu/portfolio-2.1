@@ -1,7 +1,6 @@
 import React from "react";
-import CardProjet from "./CardProject";
-import lba from "../../../public/images/lba.png";
 import brosset from "../../../public/images/brosset.png";
+import CardProjet from "./CardProject";
 
 const AnotherProject = () => {
   return (
