@@ -8,7 +8,7 @@ const Intro = () => {
         <h2 className="2xl:text-4xl font-semibold mb-5">Mon parcours de dev</h2>
         <article className="flex">
           <div className="lg:w-1/2">
-            <p className=" font-sans text-xl text-gray-600 mb-5">
+            <p className="font-sans text-xl text-gray-600 mb-5 mr-5">
               👋 Moi c'est Vincent, et je suis un développeur fullstack
               spécialisé ReactJS & NextJS avec Symfony. Ma journée en tant que
               développeur démarre en 2019 ou ma curiosité et ma passion de la
