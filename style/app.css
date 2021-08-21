@@ -9,3 +9,7 @@
   width: 380px!important;
   object-fit: cover;
 }
+
+.banniere {
+  height: 75vh;
+}

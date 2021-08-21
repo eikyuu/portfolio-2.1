@@ -5,7 +5,7 @@ import useWindowSize from "../../../hooks/useWindowSize";
 const Banniere = () => {
   return (
     <React.Fragment>
-      <section className="bg-fond bg-cover bg-bottom h-screen flex items-center">
+      <section className="banniere bg-fond bg-cover bg-bottom flex items-center">
         <article
           data-aos="fade-right"
           data-aos-duration="3000"
