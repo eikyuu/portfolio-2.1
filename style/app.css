@@ -1,0 +1,5 @@
+.img-project img {
+  height: 356px !important;
+  width: 500px!important;
+  object-fit: cover;
+}
