@@ -2,7 +2,7 @@ import React from "react";
 import Image from "next/image";
 import useWindowSize from "../../../hooks/useWindowSize";
 
-const Hero = () => {
+const Banniere = () => {
   return (
     <React.Fragment>
       <section className="bg-fond bg-cover bg-bottom h-screen flex items-center">
@@ -50,4 +50,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default Banniere;
