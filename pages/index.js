@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <div className="min-h-screen">
       <Head>
-        <title>Vincent duguet</title>
+        <title>Développeur Fullstack spécialisé ReactJs, NextJs et Symfony</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Banniere />
