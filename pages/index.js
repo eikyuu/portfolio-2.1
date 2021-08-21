@@ -2,6 +2,7 @@ import AOS from "aos";
 import Head from "next/head";
 import { useEffect } from "react";
 import AnotherProject from "../components/pages/home/AnotherProject";
+import Hero from "../components/pages/home/Hero";
 import Intro from "../components/pages/home/Intro";
 import Project from "../components/pages/home/Project";
 
@@ -15,7 +16,7 @@ export default function Home() {
         <title>Vincent duguet</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      {/* <Hero /> */}
+      <Hero />
       <Intro />
       <Project />
       <AnotherProject />
