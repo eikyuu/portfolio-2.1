@@ -5,7 +5,7 @@ import Navbar from "./Navbar";
 const Layout = ({ children }) => {
   return (
     <React.Fragment>
-      <Navbar />
+      {/* <Navbar /> */}
       <main>{children}</main>
       <Footer />
     </React.Fragment>
