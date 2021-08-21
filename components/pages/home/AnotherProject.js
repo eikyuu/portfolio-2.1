@@ -10,10 +10,10 @@ const AnotherProject = () => {
       <section className=" text-xl text-justify max-w-screen-xl	m-auto flex flex-wrap items-center ">
         <article className="flex">
           <div>
-            <h3 className="pt-4 pl-4 2xl:text-3xl font-semibold">
+            <h3 className="2xl:text-3xl font-semibold mb-5">
               Projets plus ancien
             </h3>
-            <p className="p-4 font-sans text-xl text-gray-600">
+            <p className="font-sans text-xl text-gray-600 mb-5">
               Retrouvez ici une liste des derniers projets auquelle j'ai
               participer.
             </p>

@@ -7,24 +7,24 @@ const Project = () => {
   return (
     <section className="pb-5">
       <section className="text-xl text-justify max-w-screen-xl	m-auto flex flex-wrap items-center ">
-        <h2 className="p-5 2xl:text-3xl font-semibold">
-          Projets les plus récents
+        <h2 className="mb-5 mt-5 2xl:text-3xl font-semibold">
+          Projets en cours
         </h2>
-        <p className="pl-5 mb-5 font-sans text-xl text-gray-600">
-          Voici une liste non exhaustive des derniers projets sur lesquels j'ai
-          travaillé en tant que développeur JavaScript/PHP. Je travaille
+        <p className="font-sans text-xl text-gray-600">
+          Voici une liste non exhaustive des derniers projets terminé ou en cours sur lesquels j'ai
+          travaillé en tant que développeur JavaScript/PHP Je travaille
           généralement sur une Stack ReactJS avec le Framework NextJS et
           Symfony.
         </p>
-        <article className="flex mb-10 mt-10">
-          <picture className="pl-5 pr-5 img-project ">
+        <article className="flex mb-10 mt-10 justify-between">
+          <picture className="img-project ">
             <Image src={lba} className="rounded-lg" alt="Image du bon agent" />
           </picture>
           <div className="w-1/2">
-            <h3 className="pl-4 2xl:text-4xl font-semibold text-lba">
+            <h3 className=" 2xl:text-4xl font-semibold text-lba mb-5">
               Le bon agent
             </h3>
-            <p className="p-4 font-sans text-xl text-gray-600">
+            <p className="font-sans text-xl text-gray-600 mb-5">
               Le bon agent est un réseau de mandataires immobiliers appartenant
               au groupe <strong>Arche</strong>. J’ai créé en 2021 leur
               backoffice à destination des mandataires en tant que développeur
@@ -38,18 +38,18 @@ const Project = () => {
             </p>
             <a
               target="_blank"
-              className="pl-4 font-sans text-xl"
-              href="https://backoffice.lebonagent.fr/"
+              className="font-sans text-xl"
+              href="https://github.com/eikyuu/estimation-files/blob/main/README.md"
             >
-              backoffice.lebonagent.fr
+              Voir le projet
             </a>
           </div>
         </article>
 
-        <article className="flex mb-10">
+        <article className="flex mb-10 justify-between">
           <div className="w-1/2">
-            <h3 className="pl-4 2xl:text-4xl font-semibold text-lba">Arche</h3>
-            <p className="p-4 font-sans text-xl text-gray-600">
+            <h3 className="2xl:text-4xl font-semibold text-lba mb-5">Arche</h3>
+            <p className="font-sans text-xl text-gray-600 mb-5">
               Arche est une holding immobilière regroupant plusieurs réseaux
               immobiliers ainsi que des filiales support, spécialisées en
               immobilier (assurances, diagnostics, courtage financier). Basée à
@@ -62,13 +62,13 @@ const Project = () => {
             </p>
             <a
               target="_blank"
-              className="pl-4 font-sans text-xl"
-              href="https://www.sas-arche.com/"
+              className="font-sans text-xl"
+              href="https://github.com/eikyuu/arche-files/blob/main/README.md"
             >
-              sas-arche.com
+              Voir le projet
             </a>
           </div>
-          <picture className="pl-5 pr-5 img-project ">
+          <picture className="img-project ">
             <Image
               src={arche}
               className="rounded-lg"

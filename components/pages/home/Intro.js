@@ -5,10 +5,10 @@ const Intro = () => {
   return (
     <section className="bg-gray-100 p-5">
       <section className="text-xl text-justify max-w-screen-xl	m-auto flex flex-wrap items-center ">
-        <h2 className="p-4 2xl:text-4xl font-semibold">Mon parcours de dev</h2>
+        <h2 className="2xl:text-4xl font-semibold mb-5">Mon parcours de dev</h2>
         <article className="flex">
           <div className="lg:w-1/2">
-            <p className="p-4 font-sans text-xl text-gray-600">
+            <p className=" font-sans text-xl text-gray-600 mb-5">
               👋 Moi c'est Vincent, et je suis un développeur fullstack
               spécialisé ReactJS & NextJS avec Symfony. Ma journée en tant que
               développeur démarre en 2019 ou ma curiosité et ma passion de la
@@ -20,7 +20,7 @@ const Intro = () => {
             </p>
           </div>
           <div className="lg:w-1/2">
-            <p className="p-4 font-sans text-xl text-gray-600">
+            <p className="font-sans text-xl text-gray-600 mb-5">
               Tous ces projets ont contribué à l'amélioration de mes
               compétences, et je suis aujourd’hui capable de créer et maintenir
               un projet de A à Z avec des outils tel que
@@ -36,12 +36,12 @@ const Intro = () => {
             </p>
           </div>
         </article>
-        <p className="pt-4 pb-4 text-gray-500 italic">
+        <p className="text-gray-500 italic mb-5">
           « La création d'un site web ou d'une application est un art. On peint
           le code comme un tableau, une œuvre prend vie lentement sous nos
           doigts. »
         </p>
-        <picture className="p-5">
+        <picture className="">
           <Image src={horizontal} className="" alt="linkedin logo" />
         </picture>
       </section>
