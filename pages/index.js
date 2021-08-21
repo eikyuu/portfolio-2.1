@@ -1,7 +1,7 @@
 import Head from "next/head";
 import AnotherProject from "../components/pages/home/AnotherProject";
-import Hero from "../components/pages/home/Hero";
 import Intro from "../components/pages/home/Intro";
+import Hero from "../components/pages/home/Hero";
 import Project from "../components/pages/home/Project";
 import AOS from "aos";
 import { useEffect } from "react";
