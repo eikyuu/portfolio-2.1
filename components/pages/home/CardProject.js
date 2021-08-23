@@ -16,7 +16,7 @@ const CardProjet = ({ title, text, a, img, link }) => {
       >
         {link}
       </a>
-      <picture className="another-project ">
+      <picture data-aos="zoom-in" className="another-project ">
         <Image src={img} className="rounded-lg" alt="linkedin logo" />
       </picture>
     </div>

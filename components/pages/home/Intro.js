@@ -41,7 +41,7 @@ const Intro = () => {
           le code comme un tableau, une œuvre prend vie lentement sous nos
           doigts. »
         </p>
-        <picture className="">
+        <picture data-aos="fade-up">
           <Image src={horizontal} className="" alt="linkedin logo" />
         </picture>
       </section>

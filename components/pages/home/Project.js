@@ -17,7 +17,7 @@ const Project = () => {
           Framework NextJS et Symfony.
         </p>
         <article className="flex mb-10 mt-10 justify-between flex-col 2xl:flex-row items-center">
-          <picture className="img-project ">
+          <picture data-aos="zoom-in" className="img-project">
             <Image src={lba} className="rounded-lg" alt="Image du bon agent" />
           </picture>
           <div className="2xl:w-1/2">
@@ -68,7 +68,7 @@ const Project = () => {
               Voir le projet
             </a>
           </div>
-          <picture className="img-project mt-5">
+          <picture data-aos="zoom-in" className="img-project mt-5">
             <Image
               src={arche}
               className="rounded-lg"
