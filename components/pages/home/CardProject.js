@@ -3,7 +3,7 @@ import React from "react";
 
 const CardProjet = ({ title, text, a, img, link }) => {
   return (
-    <div className="flex border-2 justify-between rounded-lg first:mr-5 last:ml-5 w-1/2 ring-2 bg-white flex-col p-4 ring-gray-200">
+    <div className="flex border-2 justify-between rounded-lg mb-5 2xl:mb-0 last:mb-0 2xl:first:mr-5 2xl:last:ml-5 2xl:w-1/2 ring-2 bg-white flex-col p-4 ring-gray-200 items-center 2xl:items-stretch">
       <div className="flex items-center font-semibold mb-2 text-xl">
         {title}
       </div>

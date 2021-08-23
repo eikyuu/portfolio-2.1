@@ -5,23 +5,23 @@ import lba from "../../../public/images/lba.png";
 
 const Project = () => {
   return (
-    <section className="pb-5">
+    <section className="p-5">
       <section className="text-xl text-justify max-w-screen-xl	m-auto flex flex-wrap items-center ">
         <h2 className="mb-5 mt-5 2xl:text-3xl font-semibold">
           Projets en cours
         </h2>
         <p className="font-sans text-xl text-gray-600">
-          Voici une liste non exhaustive des derniers projets terminé ou en cours sur lesquels j'ai
-          travaillé en tant que développeur JavaScript/PHP Je travaille
-          généralement sur une Stack ReactJS avec le Framework NextJS et
-          Symfony.
+          Voici une liste non exhaustive des derniers projets terminé ou en
+          cours sur lesquels j'ai travaillé en tant que développeur
+          JavaScript/PHP Je travaille généralement sur une Stack ReactJS avec le
+          Framework NextJS et Symfony.
         </p>
-        <article className="flex mb-10 mt-10 justify-between">
+        <article className="flex mb-10 mt-10 justify-between flex-col 2xl:flex-row items-center">
           <picture className="img-project ">
             <Image src={lba} className="rounded-lg" alt="Image du bon agent" />
           </picture>
-          <div className="w-1/2">
-            <h3 className=" 2xl:text-4xl font-semibold text-lba mb-5">
+          <div className="2xl:w-1/2">
+            <h3 className=" 2xl:text-4xl font-semibold text-lba mb-5 mt-5 2xl:mt-0">
               Le bon agent
             </h3>
             <p className="font-sans text-xl text-gray-600 mb-5">
@@ -46,8 +46,8 @@ const Project = () => {
           </div>
         </article>
 
-        <article className="flex mb-10 justify-between">
-          <div className="w-1/2">
+        <article className="flex mb-10 justify-between flex-col 2xl:flex-row items-center">
+          <div className="2xl:w-1/2">
             <h3 className="2xl:text-4xl font-semibold text-lba mb-5">Arche</h3>
             <p className="font-sans text-xl text-gray-600 mb-5">
               Arche est une holding immobilière regroupant plusieurs réseaux
@@ -68,7 +68,7 @@ const Project = () => {
               Voir le projet
             </a>
           </div>
-          <picture className="img-project ">
+          <picture className="img-project mt-5">
             <Image
               src={arche}
               className="rounded-lg"

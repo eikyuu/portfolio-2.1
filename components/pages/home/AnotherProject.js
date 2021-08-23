@@ -17,7 +17,7 @@ const AnotherProject = () => {
               Retrouvez ici une liste des derniers projets auquelle j'ai
               participer.
             </p>
-            <div className="flex">
+            <div className="flex flex-col 2xl:flex-row items-center lg:items-stretch">
               <CardProjet
                 title={"Client Gold"}
                 text={
