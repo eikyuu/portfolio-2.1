@@ -48,8 +48,9 @@ const AnotherProject = () => {
             </div>
             <p className="mt-5">
               Voir plus de projet ? Visitez mon github :
-              <a href="linkedin.com/in/vincent-duguet/" target="_blank">
-                github
+              <a href="https://github.com/eikyuu" target="_blank">
+                {" "}
+                github.com/eikyuu
               </a>
             </p>
           </div>
