@@ -7,7 +7,7 @@ import CardProjet from "./CardProject";
 const AnotherProject = () => {
   return (
     <section className="bg-gray-100 p-5">
-      <section className=" text-xl text-justify max-w-screen-xl	m-auto flex flex-wrap items-center ">
+      <section className=" text-xl max-w-screen-xl	m-auto flex flex-wrap items-center ">
         <article className="flex">
           <div>
             <h3 className="2xl:text-3xl font-semibold mb-5">

@@ -6,7 +6,7 @@ import lba from "../../../public/images/lba.png";
 const Project = () => {
   return (
     <section className="p-5">
-      <section className="text-xl text-justify max-w-screen-xl	m-auto flex flex-wrap items-center ">
+      <section className="text-xl max-w-screen-xl	m-auto flex flex-wrap items-center ">
         <h2 className="mb-5 mt-5 2xl:text-3xl font-semibold">
           Projets en cours
         </h2>

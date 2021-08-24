@@ -4,7 +4,7 @@ import horizontal from "../../../public/images/horizontal.png";
 const Intro = () => {
   return (
     <section className="bg-gray-100 p-5">
-      <section className="text-xl text-justify max-w-screen-xl m-auto flex flex-wrap">
+      <section className="text-xl max-w-screen-xl m-auto flex flex-wrap">
         <h2 className="2xl:text-4xl font-semibold mb-5">Mon parcours de dev</h2>
         <article className="flex flex-col lg:flex-row items-center lg:items-start">
           <div className="lg:w-1/2">
