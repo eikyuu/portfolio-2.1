@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: (theme) => ({
-        fond: "url('/images/fond.png')",
+        fond: "url('/images/fond.webp')",
       }),
       textColor: {
         lba: "#00afe6",

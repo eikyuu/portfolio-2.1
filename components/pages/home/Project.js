@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
-import arche from "../../../public/images/arche-siege.png";
-import lba from "../../../public/images/lba.png";
+import arche from "../../../public/images/arche-siege.webp";
+import lba from "../../../public/images/lba.webp";
 
 const Project = () => {
   return (

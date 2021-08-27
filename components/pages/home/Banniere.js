@@ -27,7 +27,7 @@ const Banniere = () => {
               target="_blank"
             >
               <Image
-                src="/images/linkedin.png"
+                src="/images/linkedin.webp"
                 alt="linkedin logo"
                 title="linkedin"
                 width={useWindowSize().width >= 1024 ? 50 : 40}
@@ -36,7 +36,7 @@ const Banniere = () => {
             </a>
             <a href="https://github.com/eikyuu" target="_blank">
               <Image
-                src="/images/github.png"
+                src="/images/github.webp"
                 alt="github logo"
                 title="github"
                 width={useWindowSize().width >= 1024 ? 50 : 40}

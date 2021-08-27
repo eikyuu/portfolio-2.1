@@ -1,6 +1,6 @@
 import Image from "next/image";
 import React from "react";
-import horizontal from "../../../public/images/horizontal.png";
+import horizontal from "../../../public/images/horizontal.webp";
 const Intro = () => {
   return (
     <section className="bg-gray-100 p-5">

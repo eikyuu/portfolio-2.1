@@ -1,7 +1,7 @@
 import React from "react";
-import brosset from "../../../public/images/brosset.png";
-import media from "../../../public/images/media.PNG";
-import coachimmo from "../../../public/images/coachimmo.PNG";
+import brosset from "../../../public/images/brosset.webp";
+import media from "../../../public/images/media.webp";
+import coachimmo from "../../../public/images/coachimmo.webp";
 import CardProjet from "./CardProject";
 
 const AnotherProject = () => {
