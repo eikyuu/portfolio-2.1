@@ -16,11 +16,11 @@ const Project = () => {
           JavaScript/PHP Je travaille généralement sur une Stack ReactJS avec le
           Framework NextJS et Symfony.
         </p>
-        <article className="flex mb-10 mt-10 justify-between flex-col 2xl:flex-row items-center">
+        <article className="flex mb-10 mt-10 justify-between flex-col xl:flex-row items-center">
           <picture data-aos="zoom-in" className="img-project">
             <Image src={lba} className="rounded-lg" alt="Image du bon agent" />
           </picture>
-          <div className="2xl:w-1/2">
+          <div className="xl:w-1/2">
             <h3 className=" 2xl:text-4xl font-semibold text-lba mb-5 mt-5 2xl:mt-0">
               Le bon agent
             </h3>
@@ -46,8 +46,8 @@ const Project = () => {
           </div>
         </article>
 
-        <article className="flex mb-10 justify-between flex-col 2xl:flex-row items-center">
-          <div className="2xl:w-1/2">
+        <article className="flex mb-10 justify-between flex-col xl:flex-row items-center">
+          <div className="xl:w-1/2">
             <h3 className="2xl:text-4xl font-semibold text-lba mb-5">Arche</h3>
             <p className="font-sans text-xl text-gray-600 mb-5">
               Arche est une holding immobilière regroupant plusieurs réseaux
