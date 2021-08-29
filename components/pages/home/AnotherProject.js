@@ -6,7 +6,7 @@ import CardProjet from "./CardProject";
 
 const AnotherProject = () => {
   return (
-    <section className="bg-gray-100 p-5">
+    <section className="bg-gray-100 xl:p-5">
       <section className="text-xl max-w-screen-xl	m-auto flex flex-wrap items-center ">
         <article className="flex">
           <div>
