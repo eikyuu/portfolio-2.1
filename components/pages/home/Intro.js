@@ -10,7 +10,7 @@ const Intro = () => {
           <div className="lg:w-1/2">
             <p className="font-sans text-xl text-gray-600 mb-5 lg:mr-5">
               👋 Moi c'est Vincent, et je suis un développeur fullstack
-              spécialisé ReactJS & NextJS avec Symfony. Ma journée en tant que
+              spécialisé ReactJS & NextJS avec Symfony. Mon aventure en tant que
               développeur démarre en 2019 ou ma curiosité et ma passion de la
               culture "Do-it-yourself", de l'informatique et du monde de l'image
               m’a amené à créer mes premiers sites web. Mes compétences se sont
