@@ -28,13 +28,15 @@ const AnotherProject = () => {
                 link={"brosset-immobilier.fr/client-gold"}
               />
               <CardProjet
-                title={"Ecran des agences Citya Immobilier"}
+                title={"Carte de visite dynamique"}
                 text={
-                  "Création d'un ecran interactif, actualités du groupe, météo etc... pour toutes les agences Citya."
+                  "Création d'une carte de visite dynamique pour chaque collaborateurs de Citya Immobilier"
                 }
                 img={media}
-                a={"https://media.sas-arche.com/tv/132"}
-                link={"media.sas-arche.com"}
+                a={
+                  "https://media.sas-arche.com/businesscards/html/pbriand-1.html"
+                }
+                link={"media.sas-arche.com/businesscards"}
               />
               <CardProjet
                 title={"Coach Immo"}
