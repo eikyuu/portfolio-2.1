@@ -19,13 +19,13 @@ const AnotherProject = () => {
             </p>
             <div className="flex flex-col xl:flex-row items-center lg:items-stretch">
               <CardProjet
-                title={"Client Gold"}
+                title={"Brosset Immobilier"}
                 text={
-                  "Intégration d'une nouvelle page 'mobile-first' à destination des clients gold pour Brosset Immobillier"
+                  "Intégration, amélioration de la base code, ajout de nouvelles pages"
                 }
                 img={brosset}
-                a={"https://www.brosset-immobilier.fr/client-gold"}
-                link={"brosset-immobilier.fr/client-gold"}
+                a={"https://www.brosset-immobilier.fr"}
+                link={"brosset-immobilier.fr"}
               />
               <CardProjet
                 title={"Carte de visite dynamique"}
