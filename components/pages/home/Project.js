@@ -8,7 +8,7 @@ const Project = () => {
     <section className="p-5">
       <section className="text-xl max-w-screen-xl	m-auto flex flex-wrap items-center ">
         <h2 className="mb-5 mt-5 2xl:text-3xl font-semibold">
-          Projets en cours
+          Projets
         </h2>
         <p className="font-sans text-xl text-gray-600">
           Voici une liste non exhaustive des derniers projets terminé ou en
@@ -56,7 +56,7 @@ const Project = () => {
 
         <article className="flex mb-10 justify-between flex-col xl:flex-row items-center">
           <div className="xl:w-1/2">
-            <h3 className="2xl:text-4xl font-semibold text-lba mb-5">Arche</h3>
+            <h3 className="2xl:text-4xl font-semibold text-lba mb-5">Arche (projet en cours)</h3>
             <p className="font-sans text-xl text-gray-600 mb-5">
               Arche est une holding immobilière regroupant plusieurs réseaux
               immobiliers ainsi que des filiales support, spécialisées en
