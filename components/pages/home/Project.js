@@ -43,6 +43,14 @@ const Project = () => {
             >
               Voir le projet
             </a>
+            <br/>
+            <a
+                target="_blank"
+                className="font-sans text-xl"
+                href="https://backoffice.lebonagent.fr/#/login"
+            >
+             Lien vers le backoffice du Bon Agent
+            </a>
           </div>
         </article>
 
