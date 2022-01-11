@@ -32,7 +32,8 @@ const Intro = () => {
               fait capable de travailler sur des projets backend avec Symfony.
               Actuellement, je travail à temps pleins en tant que développeur
               fullstack pour
-              <strong> Citya Immobilier</strong>.
+              <strong> Citya Immobilier</strong> ou je maintiens et réalise de nouvelles features sur les sites
+              de la holding <strong>Arche</strong>.
             </p>
           </div>
         </article>
