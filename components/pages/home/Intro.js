@@ -10,13 +10,13 @@ const Intro = () => {
           <div className="lg:w-1/2">
             <p className="font-sans text-xl text-gray-600 mb-5 lg:mr-5">
               👋 Moi c'est Vincent, et je suis un développeur fullstack
-              spécialisé ReactJS & NextJS avec Symfony. Mon aventure en tant que
-              développeur démarre en 2019 ou ma curiosité et ma passion de la
+              spécialisé ReactJS & NextJS avec Symfony en API. Mon aventure en tant que
+              développeur démarre en 2018 ou ma curiosité et ma passion de la
               culture "Do-it-yourself", de l'informatique et du monde de l'image
               m’a amené à créer mes premiers sites web. Mes compétences se sont
               grandement améliorés lorsque j’ai rejoint la Wild code school en
               septembre 2019 ou j'ai appris à développer d'une façon
-              professionnelle et j’ai depuis réalisé de nombreux projets.
+              professionnelle et j’ai depuis réalisé de nombreux projets !
             </p>
           </div>
           <div className="lg:w-1/2">
@@ -26,10 +26,10 @@ const Intro = () => {
               un projet de A à Z avec des outils tel que
               <strong>
                 {" "}
-                Reactjs, NextJS, Redux, TailwindCSS & Netlify.
+                Reactjs, NextJS, Redux, Symfony & Api Platform, TailwindCSS & Netlify etc.
               </strong>{" "}
-              J’ai concentré mes compétences en Frontend, mais je suis tout à
-              fait capable de travailler sur des projets Backend avec Symfony.
+              Je concentre mes compétences en frontend, mais je suis tout à
+              fait capable de travailler sur des projets backend avec Symfony.
               Actuellement, je travail à temps pleins en tant que développeur
               fullstack pour
               <strong> Citya Immobilier</strong>.
