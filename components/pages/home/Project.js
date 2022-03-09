@@ -27,12 +27,12 @@ const Project = () => {
             <p className="font-sans text-xl text-gray-600 mb-5">
               Le bon agent est un réseau de mandataires immobiliers appartenant
               au groupe <strong>Arche</strong>. J’ai créé en 2021 leur
-              backoffice à destination des mandataires en tant que développeur
+              backoffice à destination des mandataires et de l'administration en tant que développeur
               Fullstack. Ce backoffice sert à la gestion des mandataires du
               réseau, de leurs contacts et la synergie entre les filiales du
               groupe Arche ainsi que la création, l'édition et la gestion
               d'estimations pour un bien immobilier en fonction de critères
-              envoyé a une API puis à la génération d'un PDF dynamique. Le site
+              envoyé à une API puis à la génération d'un PDF dynamique. Le site
               est conçu en ReactJS, Redux & MaterialUI pour le front et Symfony
               pour le back.
             </p>

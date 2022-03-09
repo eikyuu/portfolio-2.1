@@ -11,7 +11,6 @@ const CardProjet = ({ title, text, a, img, link }) => {
       <a
         href={a}
         target="_blank"
-        // rel="noopener"
         className="text-purple-600 py-4"
       >
         {link}
