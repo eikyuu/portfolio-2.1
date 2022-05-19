@@ -9,7 +9,7 @@ const Intro = () => {
         <article className="flex flex-col lg:flex-row items-center lg:items-start">
           <div className="lg:w-1/2">
             <p className="font-sans text-xl text-gray-600 mb-5 lg:mr-5">
-              👋 Moi c'est Vincent, et je suis un développeur fullstack.
+              👋 Moi c'est Vincent, et je suis un développeur front-end. 
               Mon aventure en tant que
               développeur démarre en 2018 ou ma curiosité et ma passion de la
               culture "Do-it-yourself", de l'informatique et du monde de l'image
@@ -28,6 +28,8 @@ const Intro = () => {
                 {" "}
                 Reactjs, NextJS, Redux, Symfony & Api Platform, TailwindCSS & Netlify etc.
               </strong>{" "}
+              Je concentre mes compétences en front-end, mais je suis tout à
+              fait capable de travailler sur des projets back-end avec Symfony.
               Actuellement, je travail à temps pleins en tant que Ingénieur d'études et de développement pour
               <strong> Apside TOP</strong>.
             </p>
